@@ -10,3 +10,5 @@ reset --hard
 reset --soft
 
 checkout 
+
+este comando nos permite regresar entre commit sin eliminar

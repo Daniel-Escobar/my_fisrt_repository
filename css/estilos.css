@@ -1,3 +1,25 @@
 body{
     background-color:aqua;
 }
+.main{
+    width: 500px;
+    margin: 20px auto;
+    border: 1px solid blue;
+  
+}
+h2{
+    margin-top: 0pt;
+}
+h3{color:cadetblue;}
+
+P {color:rgb(0, 187, 72); 
+    font-size:20px;
+    font-family:Courier;
+    font-weight:bold;
+    line-height:30px;
+    letter-spacing:5px;
+    text-decoration:underline;
+    text-transform:capitalize;
+    text-align:left;
+    text-indent:30px;
+   }

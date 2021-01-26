@@ -4,3 +4,9 @@ mi tercer cambio
 
 esto es una prueba con el nuevo comando soft 
 
+Empezando el dia 26 con git hub
+Comandos 
+reset --hard
+reset --soft
+
+checkout 

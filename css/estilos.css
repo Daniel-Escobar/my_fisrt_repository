@@ -2,18 +2,24 @@ body{
     background-color:aqua;
 }
 .main{
-    width: 800px;
+    width: 1000px;
     margin: 20px auto;
     border: 1px solid blue;
-  
 }
 h2{
     margin-top: 0pt;
 }
-h3{color:rgb(221, 27, 27);}
+h3{color:cadetblue;}
 
 P {
     color:rgb(0, 0, 0); 
     font-size:20px;
     font-family:Verdana;
+   }
+   .encabezado{
+       background-color:rgb(0, 255, 157);
+        padding: 20px 20px;
+        margin-bottom:20px;
+        font-size:30px;
+        box-shadow: 0px 5px 10px black;
    }

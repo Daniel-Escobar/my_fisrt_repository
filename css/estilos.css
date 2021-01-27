@@ -2,7 +2,7 @@ body{
     background-color:aqua;
 }
 .main{
-    width: 800px;
+    width: 1000px;
     margin: 20px auto;
     border: 1px solid blue;
   
@@ -22,4 +22,11 @@ P {
     text-transform:capitalize;
     text-align:left;
     text-indent:30px;
+   }
+   .encabezado{
+       background-color:rgb(0, 255, 157);
+        padding: 20px 20px;
+        margin-bottom:20px;
+        font-size:30px;
+        box-shadow: 0px 5px 10px black;
    }

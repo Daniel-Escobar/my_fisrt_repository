@@ -23,3 +23,13 @@ P {
         font-size:30px;
         box-shadow: 0px 5px 10px black;
    }
+footer{
+    color: blue;
+    padding: 10px;
+    background-color: burlywood;
+    font-style: normal;
+    box-shadow: 0px 0px 10px blueviolet;
+}
+footer_p{
+
+}

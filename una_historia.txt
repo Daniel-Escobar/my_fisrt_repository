@@ -12,3 +12,5 @@ reset --soft
 checkout 
 
 este comando nos permite regresar entre commit sin eliminar
+
+Atento a todos los colaboradores que voy a estar actualizando constantemente este repositorio por favor tener precausion con los cambios. Realizar un pull antes de empezar a trabajr con este repositorio

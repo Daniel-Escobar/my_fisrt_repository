@@ -13,7 +13,9 @@ checkout
 
 este comando nos permite regresar entre commit sin eliminar
 
-Hola soy nuevo usuario danielferie
-y voy a colaborar en este proyecto
-empezando desde 5/02/2021
+Atento a todos los colaboradores que voy a estar actualizando constantemente 
+este repositorio por favor tener precausion con los cambios. 
+Realizar un pull antes de empezar a trabajar con este repositorio
 
+Hola soy un nuevo usuario colaborador danielferie, 
+y voy a estar trabajando constantemente en este proyecto.

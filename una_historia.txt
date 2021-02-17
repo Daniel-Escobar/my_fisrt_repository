@@ -19,3 +19,5 @@ Realizar un pull antes de empezar a trabajar con este repositorio
 
 Hola soy un nuevo usuario colaborador danielferie, 
 y voy a estar trabajando constantemente en este proyecto.
+
+Hola soy Danielferie, nuevo en github y voy a trabajar desde hoy con este repositorio
